@@ -1,0 +1,9 @@
+node_modules
+.env
+# this file contains the contract info (address) and the deployer info (key pairs, address)
+key-pair.json
+
+#Hardhat files
+cache
+artifacts
+contract.json
